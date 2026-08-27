@@ -1,0 +1,11 @@
+node_modules/
+.next/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db
+appsettings.Development.json
+.env
+.DS_Store
